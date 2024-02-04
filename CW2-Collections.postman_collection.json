@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "0fdd9973-3c4d-4d4a-bcf2-5622015508e0",
+		"name": "CW2-Collections",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "8804535"
+	},
+	"item": [
+		{
+			"name": "CREATE-HISTORY BOOKS",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET-HISTORY BOOKS",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "UPDATE-HISTORY BOOKS",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "SEARCH-HISTORY BOOKS",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
